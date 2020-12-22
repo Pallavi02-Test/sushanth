@@ -1,0 +1,23 @@
+body {
+  padding: 0; 
+  margin: 0;
+  background-size: cover;
+  background-image:url("Images/background.jpg") ;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-size: 350%;
+  align-items: center;
+  margin-left: 40%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: brown;
+}
+
+.button {
+ margin-left: 50% ;
+ margin-top: 20%;
+ width: 10%;
+ height: auto;
+ color:burlywood;
+ border-radius: 200cm;
+}
